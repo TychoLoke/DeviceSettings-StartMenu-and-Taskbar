@@ -37,14 +37,13 @@ If you encounter any issues or have any questions, please open an issue on GitHu
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Additional Resources
 
-- [Intune Start Menu Documentation](https://docs.microsoft.com/en-us/mem/intune/)
-- [Windows Start Menu Customization](https://docs.microsoft.com/en-us/windows/configuration/start-layout-xml-desktop)
+- [Intune Start Menu Documentation](https://learn.microsoft.com/en-us/mem/intune/)
+- [Windows Start Menu Customization](https://learn.microsoft.com/en-us/windows/configuration/start-layout-xml-desktop)
 
 ---
 
 **Note:** Please ensure to consult your organization's policies and guidelines before implementing any changes to device settings.
-
